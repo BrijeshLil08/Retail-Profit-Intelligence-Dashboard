@@ -55,12 +55,12 @@ The dashboard provides valuable business insights to help identify:
 # Dashboard Preview
 
 ## 🔹 Executive Overview Page
-![Dashboard Page 1](Sales Analysis Project\Dashboard_Page1.png)
+![Dashboard Page 1](Dashboard_Page1.png)
 
 ---
 
 ## 🔹 Advanced Business Insights Page
-![Dashboard Page 2](Sales Analysis Project\Dashboard_Page2.png)
+![Dashboard Page 2](Dashboard_Page2.png)
 
 ---
 
